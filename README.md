@@ -62,6 +62,15 @@ horizontal).**
 ## Menabahkan Style pada Form
 **Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.**
 
+![8](https://github.com/Bayuayassy/Lab3_Pemrogramanweb/assets/115678251/113ef2de-412a-46fa-8349-2f14a3376fae)
+
+## Pertanyaan dan Tugas
+> 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+![9](https://github.com/Bayuayassy/Lab3_Pemrogramanweb/assets/115678251/58aa4690-79f5-4ac1-9a79-0ad859767f18)
+
+
+
 
 
 
